@@ -1,0 +1,115 @@
+<STYLE TYPE="text/css" MEDIA=screen>
+        <!--
+          body  { background-color: #00aae4;}
+          P EM  { background: #e2ba1f; color: black }
+          .nota { margin-left: 5em; margin-right: 5em }
+          li {
+            color: blue
+        }
+        body {
+          background-color: lightskyblue;
+    }
+        header {
+          text-align: center;
+            border-style: double;
+            background-color: #00aae4;
+            background-image: url("fondoarg.jpg");
+                font-size: 100px;
+                border-top-width
+  .logo   float: left;
+  display: block;
+  margin-right: 0;
+ } 
+ h1 {
+  text-align: center;
+  
+    color:black
+    }   
+    h2 {
+      color:black
+         }   
+                      
+    h3 {
+          text-align: center;
+            color: #000000
+        }   
+    h5 {
+        color:black    
+        }
+        p {text-align: center;
+          color:black    
+          }
+  ul {list-style: none;
+            }
+            ul {
+  display: flex;
+  flex-direction: row;
+}
+   li {
+        padding: 30px;
+        background-color: rgb(63, 187, 228);
+        margin: 15px;
+      }
+
+         
+        footer {
+  padding: 5px;
+  display: flex;     
+                border-style: double;
+                background-image: url("fondoarg.jpg");
+                border-color:blue;                
+        } 
+        
+          body {
+    font-family: Chinese rocks
+}
+
+footer p {
+  margin: 0;
+  font-size: 18px;
+}
+ 
+ul {
+  display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh;
+            margin: 0;
+}
+
+li {
+  display: inline;
+
+}
+
+a {
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  }
+  .aside {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+ 
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  h3 {
+    font-size: 20;
+  }
+  p {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+body {
+      background-color: lightskyblue;
+}
+        </STYLE>

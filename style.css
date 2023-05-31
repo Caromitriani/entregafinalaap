@@ -1,0 +1,222 @@
+<STYLE TYPE="text/css" MEDIA=screen>
+        <!--
+          body  { background-color: #00aae4;}
+          P EM  { background: #e2ba1f; color: black }
+          .nota { margin-left: 5em; margin-right: 5em }
+          li {
+            color: blue
+        }
+        body {
+          background-color: lightskyblue;
+    }
+        header {
+          text-align: center;
+            border-style: double;
+            background-color: #00aae4;
+            background-image: url("fondoarg.jpg");
+                font-size: 100px;
+                border-top-width
+  .logo   float: left;
+  display: block;
+  margin-right: 0;
+ } 
+ h1 {
+  text-align: center;
+  
+    color:black
+    }   
+    h2 {
+      color:black
+         }   
+                      
+    h3 {
+          text-align: center;
+            color: #000000
+        }   
+    h5 {
+        color:black    
+        }
+        p {
+          color:black    
+          }
+  ul {list-style: none;
+            }
+            ul {
+  display: flex;
+  flex-direction: row;
+}
+   li {
+        padding: 30px;
+        background-color: rgb(63, 187, 228);
+        margin: 15px;
+      }
+
+         
+        footer {
+  padding: 5px;
+  display: flex;     
+                border-style: double;
+                background-image: url("fondoarg.jpg");
+                border-color:blue;                
+        } 
+        
+          body {
+    font-family: Chinese rocks
+}
+
+footer p {
+  margin: 0;
+  font-size: 18px;
+}
+ 
+ul {
+  display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh;
+            margin: 0;
+}
+
+li {
+  display: inline;
+
+}
+
+a {
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  }
+  .aside {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .gallery img {
+    margin: 10px;
+    max-width: 200px;
+    height: auto;
+  }
+
+  .sidebar-chile {
+    width: 250px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    float: left;
+  }
+  
+  .sidebar-chile h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-chile p {
+    margin-bottom: 10px;
+  }
+  
+
+  .main-arg{
+    margin-left: 280px;
+    padding: 20px;
+    background-color: lightcyan;
+  }
+  
+  .main-arg h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .main-arg p {
+    margin-bottom: 10px;
+  }
+
+  .carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+  }
+  .carousel-inner {
+    max-width: 600px; 
+    margin: 0 auto; 
+  }
+
+
+  .video-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .video-container video {
+    width: 50%; 
+    margin: 0 auto; 
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 70%;
+    height: auto;
+}
+
+.line-container {
+  position: relative;
+  width: 100%;
+  height: 2px;
+}
+
+.animated-line {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: blue;
+  animation: line-animation 8s linear infinite;
+}
+
+@keyframes line-animation {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 100%;
+  }
+  100% {
+    width: 0;
+  }
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  h3 {
+    font-size: 20;
+  }
+  p {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+body {
+      background-color: lightskyblue;
+}
+        </STYLE>
